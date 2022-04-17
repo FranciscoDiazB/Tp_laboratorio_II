@@ -1,0 +1,19 @@
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.exe
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.deps.json
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.runtimeconfig.json
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.dll
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\TP1 Inicial.pdb
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\LibreriaCalculadora.dll
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\bin\Debug\net5.0\LibreriaCalculadora.pdb
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.AssemblyInfo.cs
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.csproj.CopyComplete
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.dll
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\refint\TP1 Inicial.dll
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.pdb
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\TP1 Inicial.genruntimeconfig.cache
+C:\Users\Asus\Documents\Repo Progra2\TP1 Inicial\TP1 Inicial\obj\Debug\net5.0\ref\TP1 Inicial.dll
