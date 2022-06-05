@@ -1,0 +1,173 @@
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Asus\source\repos\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Asus\Desktop\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\dsadsadsadsad\TP3Practica\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmImportarArchivo.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmImportarArchivo.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Fran\Desktop\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmImportarArchivo.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmImportarArchivo.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Fran\Desktop\DiazBarbacovi.Francisco.2C.TP3 - copia\Trabajo Practico #3\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.exe
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.deps.json
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.json
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.dll
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\bin\Debug\net5.0-windows\BiblioTP3.pdb
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmImportarArchivo.resources
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmListarDatos.resources
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmPintureria.resources
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.FrmRegistroDatos.resources
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.Properties.Resources.resources
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.AssemblyInfo.cs
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.csproj.CopyComplete
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\refint\PintureriaRegistro.dll
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.pdb
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\PintureriaRegistro.genruntimeconfig.cache
+C:\Users\Fran\Desktop\Tp_laboratorio_II\Trabajo Practico 3\PintureriaRegistro\obj\Debug\net5.0-windows\ref\PintureriaRegistro.dll

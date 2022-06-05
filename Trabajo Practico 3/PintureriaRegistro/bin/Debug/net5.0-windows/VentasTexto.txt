@@ -1,0 +1,5 @@
+Marca: Alba - Codigo: AB784 - Esmalte Blanco - Litros: 4 - Unidades: 3 - Total: $21330 - Cliente: Francisco Diaz - Pago: Efectivo - Vendedor: Jose  - Comision: $1185 - Fecha de la Venta: 05/06/2022 18:08:58
+Marca: Sherwin Williams - Codigo: SW789 - Latex Blanco - Litros: 20 - Unidades: 3 - Total: $50986,5 - Cliente: Claudio Rodriguez - Pago: Tarjeta de Debito - Vendedor: Matias  - Comision: $5367 - Fecha de la Venta: 05/06/2022 18:15:04
+Marca: Alba - Codigo: AB888 - Barniz Negro - Litros: 2 - Unidades: 3 - Total: $8505 - Cliente: Ana Barbacovi - Pago: Efectivo - Vendedor: Jose  - Comision: $0 - Fecha de la Venta: 05/06/2022 18:15:54
+Marca: Tersuave - Codigo: TS123 - Esmalte Beige - Litros: 2 - Unidades: 1 - Total: $4230 - Cliente: Lorena Lopilato - Pago: Efectivo - Vendedor: Matias  - Comision: $0 - Fecha de la Venta: 05/06/2022 19:20:43
+Marca: Colorin - Codigo: CL278 - Latex Gris - Litros: 20 - Unidades: 3 - Total: $45000 - Cliente: Marcelo Ramos - Pago: Tarjeta de Credito - Vendedor: Jose  - Comision: $4500 - Fecha de la Venta: 05/06/2022 19:23:23

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PintureriaRegistro/1.0.0": {
+        "dependencies": {
+          "BiblioTP3": "1.0.0"
+        },
+        "runtime": {
+          "PintureriaRegistro.dll": {}
+        }
+      },
+      "BiblioTP3/1.0.0": {
+        "runtime": {
+          "BiblioTP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PintureriaRegistro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BiblioTP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
