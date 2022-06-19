@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj",
         "projectName": "BiblioTP3",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj",
-        "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj",
         "projectName": "PintureriaRegistro",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj",
-        "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\PintureriaRegistro.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\PintureriaRegistro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj": {
-                "projectPath": "C:\\Users\\Fran\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj"
+              "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\Tp_laboratorio_II\\Trabajo Practico 4\\BiblioTP3\\BiblioTP3.csproj"
               }
             }
           }
@@ -121,7 +121,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

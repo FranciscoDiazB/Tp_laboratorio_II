@@ -14,7 +14,7 @@ namespace BiblioTP3
 
         static ClienteDAO()
         {
-            connectionString = @"Server = FRAN; Database = ClientesDataBase; Trusted_Connection = True";
+            connectionString = @"Server = .; Database = ClientesDataBase; Trusted_Connection = True";
         }
 
         public ClienteDAO()
