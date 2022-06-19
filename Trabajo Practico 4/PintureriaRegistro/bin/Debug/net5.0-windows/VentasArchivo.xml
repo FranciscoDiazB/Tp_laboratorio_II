@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVentas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-19T00:10:12.5374102-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Jose Luiz</Nombre>
+      <Apellido>Bonavidez</Apellido>
+      <MetodoPago>Efectivo</MetodoPago>
+      <Dni>22456879</Dni>
+    </Cliente>
+    <Pintura>
+      <Color>Negro</Color>
+      <Tipo>Barniz</Tipo>
+      <Volumen>2</Volumen>
+      <Marca>Tersuave</Marca>
+      <Precio>2900</Precio>
+      <CodigoProducto>TS765</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Luis</Nombre>
+      <Apellido />
+      <Comision>0</Comision>
+    </Vendedor>
+    <PrecioTotal>7830</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>5</Unidades>
+    <FechaVenta>2022-06-19T00:06:29.8696302-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Jose</Nombre>
+      <Apellido>Rodriguez</Apellido>
+      <MetodoPago>Transferencia</MetodoPago>
+      <Dni>40980755</Dni>
+    </Cliente>
+    <Pintura>
+      <Color>Beige</Color>
+      <Tipo>Latex</Tipo>
+      <Volumen>4</Volumen>
+      <Marca>Colorin</Marca>
+      <Precio>7900</Precio>
+      <CodigoProducto>CL290</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Juan</Nombre>
+      <Apellido />
+      <Comision>3950</Comision>
+    </Vendedor>
+    <PrecioTotal>37525</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-19T00:08:47.0825422-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Lorenzo</Nombre>
+      <Apellido>Valderrama</Apellido>
+      <MetodoPago>Tarjeta de Credito</MetodoPago>
+      <Dni>36798021</Dni>
+    </Cliente>
+    <Pintura>
+      <Color>Blanco</Color>
+      <Tipo>Esmalte</Tipo>
+      <Volumen>10</Volumen>
+      <Marca>Sherwin Williams</Marca>
+      <Precio>25980</Precio>
+      <CodigoProducto>SW080</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Luis</Nombre>
+      <Apellido />
+      <Comision>7794</Comision>
+    </Vendedor>
+    <PrecioTotal>77940</PrecioTotal>
+  </Ventas>
+</ArrayOfVentas>

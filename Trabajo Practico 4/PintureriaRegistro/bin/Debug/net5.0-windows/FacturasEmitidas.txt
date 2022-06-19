@@ -1,0 +1,153 @@
+Cliente: Cliente: fdsafdsa fdsafdsa - Pago: Efectivo - Dni: 5432654 - Codigo del Producto fdsafdsa - Total: $18576 - Tipo de Factura: A - Consumidor Final: No - Fecha: 16/06/2022 19:16:16
+Cliente: Cliente: fdsa fdsa - Pago: Efectivo - Dni: 654363 - Codigo del Producto fdsafds - Total: $293328 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 16/06/2022 19:17:34
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 16/06/2022 19:40:14
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 16/06/2022 19:40:41
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 16/06/2022 19:40:46
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 16/06/2022 20:56:10
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:21:32
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:21:34
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:21:39
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:23:50
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:23:52
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:23:54
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:24:45
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:24:47
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:24:48
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:27:43
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:27:44
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:27:46
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:29:41
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:29:43
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:29:45
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:30:14
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:30:15
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:30:17
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:32:34
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:32:35
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:32:37
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:38:57
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:38:58
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:39:00
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:39:42
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:39:43
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:39:45
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:41:48
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:41:49
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:41:51
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:45:20
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 16:45:22
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 16:45:23
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:04:15
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:39:58
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:39:59
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 17:40:00
+Cliente: Jose Maria Rodriguez - Pago: Tarjeta de Debito - Dni: 17360989 - Codigo del Producto CL909 - Total: $11200 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:41:13
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:45:11
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:45:12
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 17:45:15
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:48:14
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:48:16
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 17:48:17
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:50:17
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 17:50:18
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 17:50:20
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:02:53
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:02:56
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 18:02:57
+Cliente: fdsafdfdsa fdsa - Pago: Tarjeta de Debito - Dni: 32222222 - Codigo del Producto fdsa - Total: $14835 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 18:03:41
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:06:44
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 18:09:46
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:09:53
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:09:54
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:11:20
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:11:21
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 18:11:24
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:16:10
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 18:16:11
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 18:16:13
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto CL576 - Total: $54920 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 20:09:32
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 20:09:46
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto RP089 - Total: $19000 - Tipo de Factura: A - Consumidor Final: No - Fecha: 17/06/2022 20:09:48
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 17/06/2022 20:09:49
+Cliente: dsadsa dsa - Pago: Efectivo - Dni: 432432 - Codigo del Producto dsadas - Total: $1440 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 14:48:13
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto SW995 - Total: $2350 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 14:50:25
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 14:56:00
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:03:27
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:09:54
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:09:56
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:09:57
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:09:59
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:45:04
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:45:06
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:45:07
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:51:07
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:51:08
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:51:11
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:51:13
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:53:55
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 15:53:57
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:53:58
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 15:53:59
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:04:53
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:05:05
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:05:06
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:05:07
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:05:09
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:22:01
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:22:03
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:22:05
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:22:06
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:23:34
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:23:35
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:23:36
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:23:38
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:27:43
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:27:44
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:27:45
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:27:47
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:41:14
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:41:15
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:41:17
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:41:19
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:44:30
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:44:32
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 16:44:34
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 16:44:35
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:05:51
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:08:08
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:09:29
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:19:58
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:21:26
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:24:53
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:33:45
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 23:36:47
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:40:20
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:41:01
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 23:42:13
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:50:33
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 18/06/2022 23:51:10
+Cliente: Fabian Costa - Pago: Tarjeta de Credito - Dni: 21199878 - Codigo del Producto: AB199 - Total: $31400 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:52:20
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:54:05
+Juan Pablo Mendoza - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 18/06/2022 23:59:10
+Juan Pablo Mendoza - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:02:09
+Jose Rodriguez - Codigo del Producto: CL290 - Total: $37525 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:06:29
+Lorenzo Valderrama - Codigo del Producto: SW080 - Total: $77940 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 0:08:47
+Jose Luiz Bonavidez - Codigo del Producto: TS765 - Total: $7830 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:10:12
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 0:12:08
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:13:11
+Cliente: Laura Garza - Pago: Tarjeta de Debito - Dni: 40020123 - Codigo del Producto: SW456 - Total: $25650 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 0:52:05
+Cliente: Alejandro Dominguez - Pago: Efectivo - Dni: 34876900 - Codigo del Producto: AB956 - Total: $27540 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:53:23
+Cliente: Jazmin Morales - Pago: Transferencia - Dni: 27079765 - Codigo del Producto: AB027 - Total: $16767,5 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:54:41
+Cliente: Esteban Terron - Pago: Tarjeta de Debito - Dni: 18908008 - Codigo del Producto: TS198 - Total: $55860 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 0:56:35
+Cliente: Claudio David Gonzalez - Pago: Tarjeta de Credito - Dni: 19367094 - Codigo del Producto: AB276 - Total: $57200 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 13:01:32
+Cliente: dsa dsa - Pago: Efectivo - Dni: dsa - Codigo del Producto: sda - Total: $23733 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 14:52:49
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 39854233 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 14:53:58
+Cliente: Juan Pablo Mendoza - Pago: Efectivo - Dni: 34252343 - Codigo del Producto: SW995 - Total: $2115 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 14:56:35
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 14:56:50
+Cliente: Luciano Mendez - Pago: Efectivo - Dni: 35779015 - Codigo del Producto: SW888 - Total: $50490 - Tipo de Factura: B - Consumidor Final: Si - Fecha: 19/06/2022 16:38:36
+Cliente: fdsafd fdsaf - Pago: Tarjeta de Debito - Dni: fdsafdsa - Codigo del Producto: fdsaas - Total: $2308,5 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 16:49:15
+Cliente: REWQ REWQ - Pago: Efectivo - Dni: REWQ - Codigo del Producto: REWQ - Total: $2187 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 16:50:58
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 16:56:39
+Cliente: Maria Lopez Podesta - Pago: Transferencia - Dni: 27009171 - Codigo del Producto: RP089 - Total: $18050 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 17:11:11
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 17:11:44
+Cliente: Celeste Perez Garcia - Pago: Efectivo - Dni: 32127097 - Codigo del Producto: CL576 - Total: $49428 - Tipo de Factura: A - Consumidor Final: No - Fecha: 19/06/2022 17:13:47

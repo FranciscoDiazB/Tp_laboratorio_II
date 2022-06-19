@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVentas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-05T18:15:04.0719297-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Claudio</Nombre>
+      <Apellido>Rodriguez</Apellido>
+      <MetodoPago>Tarjeta de Debito</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Blanco</Color>
+      <Tipo>Latex</Tipo>
+      <Volumen>20</Volumen>
+      <Marca>Sherwin Williams</Marca>
+      <Precio>17890</Precio>
+      <CodigoProducto>SW789</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Matias</Nombre>
+      <Apellido />
+      <Comision>5367</Comision>
+    </Vendedor>
+    <PrecioTotal>50986.5</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-05T18:15:54.3645476-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Ana</Nombre>
+      <Apellido>Barbacovi</Apellido>
+      <MetodoPago>Efectivo</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Negro</Color>
+      <Tipo>Barniz</Tipo>
+      <Volumen>2</Volumen>
+      <Marca>Alba</Marca>
+      <Precio>3150</Precio>
+      <CodigoProducto>AB888</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Jose</Nombre>
+      <Apellido />
+      <Comision>0</Comision>
+    </Vendedor>
+    <PrecioTotal>8505</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>1</Unidades>
+    <FechaVenta>2022-06-05T18:18:04.0678728-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Lucia</Nombre>
+      <Apellido>Martinez</Apellido>
+      <MetodoPago>Tarjeta de Credito</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Gris</Color>
+      <Tipo>Esmalte</Tipo>
+      <Volumen>2</Volumen>
+      <Marca>Recuplast</Marca>
+      <Precio>4570</Precio>
+      <CodigoProducto>RP270</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Jose</Nombre>
+      <Apellido />
+      <Comision>0</Comision>
+    </Vendedor>
+    <PrecioTotal>4570</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>1</Unidades>
+    <FechaVenta>2022-06-05T18:19:22.7892803-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Tobias</Nombre>
+      <Apellido>Marcelli</Apellido>
+      <MetodoPago>Transferencia</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Blanco</Color>
+      <Tipo>Cieloraso</Tipo>
+      <Volumen>10</Volumen>
+      <Marca>Tersuave</Marca>
+      <Precio>9780</Precio>
+      <CodigoProducto>TS813</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Matias</Nombre>
+      <Apellido />
+      <Comision>0</Comision>
+    </Vendedor>
+    <PrecioTotal>9291</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-05T19:19:54.9814954-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Laureano</Nombre>
+      <Apellido>Lopez</Apellido>
+      <MetodoPago>Tarjeta de Credito</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Blanco</Color>
+      <Tipo>Cieloraso</Tipo>
+      <Volumen>10</Volumen>
+      <Marca>Bruguer</Marca>
+      <Precio>8900</Precio>
+      <CodigoProducto>BR777</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Federico</Nombre>
+      <Apellido />
+      <Comision>1335</Comision>
+    </Vendedor>
+    <PrecioTotal>26700</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>1</Unidades>
+    <FechaVenta>2022-06-05T19:20:43.57691-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Lorena</Nombre>
+      <Apellido>Lopilato</Apellido>
+      <MetodoPago>Efectivo</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Beige</Color>
+      <Tipo>Esmalte</Tipo>
+      <Volumen>2</Volumen>
+      <Marca>Tersuave</Marca>
+      <Precio>4700</Precio>
+      <CodigoProducto>TS123</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Matias</Nombre>
+      <Apellido />
+      <Comision>0</Comision>
+    </Vendedor>
+    <PrecioTotal>4230</PrecioTotal>
+  </Ventas>
+  <Ventas>
+    <Unidades>3</Unidades>
+    <FechaVenta>2022-06-05T19:23:23.386589-03:00</FechaVenta>
+    <Cliente>
+      <Nombre>Marcelo</Nombre>
+      <Apellido>Ramos</Apellido>
+      <MetodoPago>Tarjeta de Credito</MetodoPago>
+    </Cliente>
+    <Pintura>
+      <Color>Gris</Color>
+      <Tipo>Latex</Tipo>
+      <Volumen>20</Volumen>
+      <Marca>Colorin</Marca>
+      <Precio>15000</Precio>
+      <CodigoProducto>CL278</CodigoProducto>
+    </Pintura>
+    <Vendedor>
+      <Nombre>Jose</Nombre>
+      <Apellido />
+      <Comision>4500</Comision>
+    </Vendedor>
+    <PrecioTotal>45000</PrecioTotal>
+  </Ventas>
+</ArrayOfVentas>
